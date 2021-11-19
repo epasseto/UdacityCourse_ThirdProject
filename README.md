@@ -1,6 +1,6 @@
 # Third Project
 
-This Project is about **IBM Recoomendations** of Data Science Course of Udacity.
+This Project is about **IBM Recommendations** of Data Science Course of Udacity.
 
 ---
 
