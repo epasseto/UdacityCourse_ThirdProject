@@ -8,35 +8,47 @@ This Project is about **IBM Recommendations** of Data Science Course of Udacity.
 
 The project . And the files are listed below.
 
-`udacourse2.py` → Python 3 code, as a library of useful functions for both parts of the project
+`udacourse3.py` → Python 3 code, as a library of useful functions for the project (and more)
 
-#### additional files
+`Recommendations_with_IBM_desktop` → Jupyter Notebook for running this project
 
-`ETL Pipeline Testing.ipynb` → Jupyter Notebook for calling and testing `process_data.py` functions
-
-### additional data sources
-
-`messages.csv` → file containing the original raw data to be processed (input: later it will be converted in our X-data, messages for training) 
+`Recommendations_with_IBM_colab` → Jupyter Notebook for running under Google Colab (needs to copy files for your own Google Drive)
 
 #### additional files 
 
-`ML Pipeline Preparation.ipynb` → Jupyter Notebook documenting all the steps for building the Machine Learning Pipeline
+`project_tests_py` → Python routines for testing the project
 
-`ML Pipeline Condensing.ipynb` → Jupyter Notebook for condensation of all the steps from `ML Pipeline Preparation.ipynb`, in order to turn it into useful functions
+`user_item_matrix.p` → Picke file for the fifth phase of the project
 
-`ML Pipeline Testing.ipynb` → Jupyter Notebook for calling and testing `train_classifier.py` functions
+`top_5.p` → Picke file for testing the project
+
+`top_10.p` → Picke file for testing the project
+
+`top_20.p` → Picke file for testing the project
+
+On /data subdirectory:
+
+`articles_community.csv` → IBM Articles detailing dataset
+
+`user-item-interactions.csv` → IBM user-article n:m dataset
 
 ### How to use
 
+Jut open the main Jupyter Notebook and run the cells
+
 ### How it works
+
+It is a kind of aiding kit for creating a collaboratory tool.
 
 ---
 
-Project started at 05/2021
+Project started at 09/2021
 
 Versions:
 
 - 0.1..0.9 Alfa: incomplete releases
+
+- 1.0 Last version 2021-11-21
 
 ##### This project is under MIT Licence
  
