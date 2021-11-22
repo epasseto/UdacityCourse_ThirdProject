@@ -75,5 +75,3 @@ Summary of MIT Licence (see on MIT Website for details)
 **Correction**: correction message
 
 **Added**: files added or whatever
-
-- 1.0 update: ETL Pipeline now is complete!
